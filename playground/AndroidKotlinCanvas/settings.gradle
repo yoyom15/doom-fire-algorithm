@@ -1,0 +1,2 @@
+rootProject.name='Android Kotlin Canvas'
+include ':app'
